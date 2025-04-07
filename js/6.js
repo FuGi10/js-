@@ -1,4 +1,4 @@
-console.log('Task 6');
+console.log('6');
 
 let input;
 let total = 0;
