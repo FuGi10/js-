@@ -1,4 +1,4 @@
-console.log('Task 10');
+console.log('10');
 
 const formatString = function (string) {
     if (string.length <= 40) {
