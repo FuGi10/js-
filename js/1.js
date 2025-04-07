@@ -1,4 +1,4 @@
-console.log('Task 1');
+console.log('1');
 
 let name = 'Генератор захисного поля';
 let price = 1000;
