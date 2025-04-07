@@ -1,4 +1,4 @@
-console.log('Task 7');
+console.log('7');
 
 function checkStorage(available, ordered) {
     let message;
