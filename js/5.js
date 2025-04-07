@@ -1,4 +1,4 @@
-console.log('Task-5');
+console.log('5');
 
 let country = prompt("Введіть назву вашої країни для доставки товару:").toLowerCase();
 let price;
