@@ -1,4 +1,4 @@
-console.log('Task 2');
+console.log('2');
 
 const total = 100;
 let ordered = 50;
