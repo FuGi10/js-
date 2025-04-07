@@ -1,4 +1,4 @@
-console.log('Task 9');
+console.log('9');
 
 const logItems = function (array) {
     for (let i = 0; i < array.length; i++) {
